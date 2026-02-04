@@ -25,3 +25,7 @@ The project will open in your browser at `http://127.0.0.1:5500/`.
 
 ## Author
 Srujan M Pattar
+
+## Hosted on
+Vercel
+Git Pages
